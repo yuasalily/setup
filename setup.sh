@@ -1,5 +1,5 @@
 apt update
-apt install -y curl gcc
+apt install -y gcc
 
 mkdir .vscode
 curl -L -o .vscode/settings.json https://raw.githubusercontent.com/yuasalily/setup/main/settings.json
