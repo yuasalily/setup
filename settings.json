@@ -1,3 +1,8 @@
 {
-    "editor.fontSize": 18
+    "editor.fontSize": 16,
+    "[rust]": {
+        "editor.formatOnSave": true,
+        "rust-analyzer.cargo.allFeatures": true,
+        "rust-analyzer.checkOnSave.command": "clippy"
+    }
 }
