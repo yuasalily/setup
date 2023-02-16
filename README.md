@@ -13,3 +13,8 @@ rust用セットアップをしたい場合
 ```
 bash -c "$(curl -L https://raw.githubusercontent.com/yuasalily/setup/main/setup.sh)" -- rust
 ```
+
+go用セットアップをしたい場合
+```
+bash -c "$(curl -L https://raw.githubusercontent.com/yuasalily/setup/main/setup.sh)" -- go
+```
