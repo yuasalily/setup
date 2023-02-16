@@ -3,6 +3,7 @@
         "golang.Go",
         "766b.go-outliner",
         "premparihar.gotestexplorer",
-        "oderwat.indent-rainbow"
+        "oderwat.indent-rainbow",
+        "formulahendry.code-runner"
     ]
 }
