@@ -1,8 +1,0 @@
-{
-    "recommendations": [
-        "christian-kohler.path-intellisense",
-        "humao.rest-client",
-        "vadimcn.vscode-lldb",
-        "rust-lang.rust-analyzer"
-    ]
-}
